@@ -1,7 +1,7 @@
 ### Hi 👋, I'm Satyajit Biswal
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
-- 🌱 I’m currently learning **Android Development.**
+- 🌱 I am an Android Developer and I am interested in App Development.
 - 💬 Ask me about Anything
 - 📫 How to reach me: **satyabiswal350@gmail.com**
 <h3 align="left">Connect with me:</h3>
