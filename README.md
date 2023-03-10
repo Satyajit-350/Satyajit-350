@@ -1,4 +1,4 @@
-### Hi 👋, I'm Satyajit Biswal
+<h1> Hi 👋, I'm Satyajit Biswal </h1>
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
 - 🌱 I'm an Android Developer and I am interested in App Development.
