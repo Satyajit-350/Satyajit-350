@@ -1,4 +1,4 @@
-<img align="right" height="300" width="370" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5YWNjYmFmYmRhZGRmZDgxY2ViMWIyMGNkOWMwNjc0MDQ0ZWNjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UJOIPO34viVwSZrlUs/giphy.gif"/>
+<img align="right" height="300" width="360" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5YWNjYmFmYmRhZGRmZDgxY2ViMWIyMGNkOWMwNjc0MDQ0ZWNjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UJOIPO34viVwSZrlUs/giphy.gif"/>
 <h1> Hi 👋, I'm Satyajit Biswal </h1>
 
 - 🔭 I’m currently working on **improving my problem solving skills.**
