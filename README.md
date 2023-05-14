@@ -21,6 +21,9 @@
   <a> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cpp" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
+  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="100" height="60"/> </a> &nbsp; 
+   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" alt="expressjs" width="60" height="60"/> </a> &nbsp; 
+   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="100" height="60"/> </a> &nbsp; 
 
 <br>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satyajit-350" alt="Satyajit Biswal" /></a> </p>
