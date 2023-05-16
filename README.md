@@ -30,10 +30,10 @@
 
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Satyajit-350&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Satyajit-350&show_icons=true&theme=tokyonight" alt="GitHub stats" height="150"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Satyajit-350&theme=tokyonight" alt="GitHub Streak" height="150"/>
 </p>
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Satyajit-350&show_icons=true&locale=en&layout=compact&theme=dark" alt="Satyajit Biswal" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=Satyajit-350&show_icons=true&locale=en&layout=compact&theme=dark" alt="Satyajit Biswal" />
 </p>
 
