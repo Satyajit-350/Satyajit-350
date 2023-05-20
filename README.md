@@ -26,7 +26,12 @@
    <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="100" height="60"/> </a> &nbsp; 
 
 <br>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Satyajit-350" alt="Satyajit Biswal" /></a> </p>
+
+#
+
+![𝚝𝚛𝚘𝚙𝚑𝚢](https://github-profile-trophy.vercel.app/?username=Satyajit-350&column=9&margin-w=15&margin-h=15)
+
+#
 
 
 <p align="left">
