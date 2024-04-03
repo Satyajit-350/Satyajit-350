@@ -1,8 +1,9 @@
-<img align="right" height="300" width="360" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5YWNjYmFmYmRhZGRmZDgxY2ViMWIyMGNkOWMwNjc0MDQ0ZWNjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UJOIPO34viVwSZrlUs/giphy.gif"/>
 <h1> Hi 👋, I'm Satyajit Biswal </h1>
 
-- 🔭 I’m currently working on **improving my problem solving skills.**
-- 🌱 I'm an Android Developer and I am interested in App Development.
+<img align="right" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5YWNjYmFmYmRhZGRmZDgxY2ViMWIyMGNkOWMwNjc0MDQ0ZWNjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UJOIPO34viVwSZrlUs/giphy.gif" style="border-radius: 50%;"/>
+
+- 🔭 I’m currently working on Android Open Source Project (AOSP) and Human-Machine Interface (HMI) development for electric bike instrumentation systems.
+- 🌱 I'm an Android Developer and I am interested in Application Development.
 - 💬 Ask me about Anything
 - 📫 How to reach me: **satyabiswal350@gmail.com**
 <h3 align="left">Connect with me:</h3>
@@ -22,9 +23,6 @@
   <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
   <a href="https://code.visualstudio.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git" width="40" height="40"/> </a>
-  <a href="https://nodejs.org/en" target="_blank" rel="noreferrer"> <img src="https://nodejs.org/static/images/logo.svg" alt="nodejs" width="100" height="60"/> </a> &nbsp; 
-   <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://ajeetchaulagain.com/static/7cb4af597964b0911fe71cb2f8148d64/8d565/express-js.webp" alt="expressjs" width="60" height="60"/> </a> &nbsp; 
-   <a href="https://www.mongodb.com" target="_blank" rel="noreferrer"> <img src="https://newrelic.com/sites/default/files/styles/800w/public/2021-10/mongo_logo.jpg?itok=Z1PabBZB" alt="mongodb" width="100" height="60"/> </a> &nbsp; 
 
 <br>
 
