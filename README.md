@@ -2,9 +2,9 @@
 
 <img align="right" height="300" width="350" alt="GIF" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMTI5YWNjYmFmYmRhZGRmZDgxY2ViMWIyMGNkOWMwNjc0MDQ0ZWNjMiZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/UJOIPO34viVwSZrlUs/giphy.gif" style="border-radius: 50%;"/>
 
-- 🔭 I’m currently working on Android Open Source Project (AOSP) and Human-Machine Interface (HMI) development for electric bike instrumentation systems.
-- 🌱 I'm an Android Developer and I am interested in Application Development.
-- 💬 Ask me about Anything
+- 🔭 I’m currently working on Kotlin Multiplatform (KMP) and Jetpack Compose for Android native development.
+- 🌱  I'm an Android Developer passionate about creating high-performance and intuitive applications using modern tools like Kotlin Multiplatform (KMP) and Jetpack Compose.
+- 💬 Ask me about anything related to app development
 - 📫 How to reach me: **satyabiswal350@gmail.com**
 <h3 align="left">Connect with me:</h3>
 <p align="left">
